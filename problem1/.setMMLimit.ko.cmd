@@ -1,0 +1,1 @@
+cmd_/home/koala/applications/prj2/problem1/setMMLimit.ko := arm-linux-androideabi-ld -r  -T /home/koala/kernel/goldfish/scripts/module-common.lds --build-id  -o /home/koala/applications/prj2/problem1/setMMLimit.ko /home/koala/applications/prj2/problem1/setMMLimit.o /home/koala/applications/prj2/problem1/setMMLimit.mod.o

@@ -1,0 +1,7 @@
+chmod +x /data/misc/oomARM
+chmod 777 /data/misc/oomARM
+chmod +x /data/misc/testARM
+chmod 777 /data/misc/testARM
+/data/misc/oomARM
+su 10070
+/data/misc/testARM u0_a70 100000000 160000000
